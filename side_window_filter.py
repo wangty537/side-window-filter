@@ -278,9 +278,7 @@ def side_filter_guide(img, kernels, iter=1, eps=0.02*0.02*255*255):
 if __name__ == "__main__":
 
     file = r'D:\dataset\benchmark\Set14\HR\ppt3.png'
-    # file = r'G:\redpine84\nndeploy\dataset_bluegreen\DCIM\img_vid01_03046_000tri.png'
-    # file = r'G:\redpine84\nndeploy\dataset_bluegreen\DCIM\vid_origin_rtvd\img_vid01_03055_000_kal_guide_flow2.png'
-    file = r'G:\redpine84\nndeploy\dataset_bluegreen\DCIM\vid_origin_rtvd\img_vid01_03055_000.png'
+
 
     # file = r'D:\code\local_laplacian_filter-master\Snipaste_2024-09-13_17-02-30.png'
     file = r'D:\code\local_laplacian_filter-master\Snipaste_2024-09-13_17-03-06.png'
